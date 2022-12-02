@@ -161,10 +161,22 @@ window.addEventListener('load',preloader.endLoading())</script><div class="js-pj
       el: '#vcomment',
       appId: 'sISjn1OIQRgUTUQ0Tqfnfsh5-gzGzoHsz',
       appKey: '7TsNmdih372sYGPsNiQLkG4e',
+      placeholder: '',
       avatar: 'monsterid',
+      meta: 'nick,mail,link'.split(','),
+      pageSize: '10',
+      lang: 'zh-CN',
+      recordIP: false,
       serverURLs: '',
+      emojiCDN: '',
       emojiMaps: "",
+      enableQQ: true,
       path: window.location.pathname,
+      requiredFields: ["nick,mail"],
+      master: '71f6e4e8dddb260447d7275d6158de9d'.split(','),
+      friends: 'f2240ec97c92fbda2c89b4f8c0d25a66'.split(','),
+      tagMeta: '博主,小伙伴,访客'.split(','),
+      metaPlaceholder: {"nick":"昵称/QQ号(必填)","mail":"邮箱(必填)","link":"网址(https://)"},
       visitor: false
     }, null))
   }
