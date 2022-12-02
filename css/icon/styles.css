@@ -1,0 +1,21 @@
+.fa-bilibili {
+  background: url("/icon/bilibili.svg");
+  background-position: 50% 75%;
+  background-repeat: no-repeat;
+  height: 1rem;
+  width: 1rem;
+}
+.fa-QQ {
+  background: url("/icon/QQ.svg");
+  background-position: 50% 75%;
+  background-repeat: no-repeat;
+  height: 1rem;
+  width: 1rem;
+}
+.fa-gitee {
+  background: url("/icon/gitee.svg");
+  background-position: 50% 75%;
+  background-repeat: no-repeat;
+  height: 1rem;
+  width: 1rem;
+}
