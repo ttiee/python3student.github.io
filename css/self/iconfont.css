@@ -1,8 +1,8 @@
 @font-face {
   font-family: "iconfont"; /* Project id 3805964 */
-  src: url('//at.alicdn.com/t/c/font_3805964_ceke78mnbt8.woff2?t=1669993494851') format('woff2'),
-       url('//at.alicdn.com/t/c/font_3805964_ceke78mnbt8.woff?t=1669993494851') format('woff'),
-       url('//at.alicdn.com/t/c/font_3805964_ceke78mnbt8.ttf?t=1669993494851') format('truetype');
+  src: url('//at.alicdn.com/t/c/font_3805964_8pkj77shpxu.woff2?t=1670035833957') format('woff2'),
+       url('//at.alicdn.com/t/c/font_3805964_8pkj77shpxu.woff?t=1670035833957') format('woff'),
+       url('//at.alicdn.com/t/c/font_3805964_8pkj77shpxu.ttf?t=1670035833957') format('truetype');
 }
 
 .iconfont {
@@ -12,6 +12,14 @@
   position: relative !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-book-full {
+  font-size: 16px;
+}
+
+.icon-book-full:before {
+  content: "\e895";
 }
 
 .icon-QQ:before {
