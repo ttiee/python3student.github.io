@@ -72,7 +72,7 @@ window.addEventListener('load', () => {
         item: function (data) {
           const link = data.permalink ? data.permalink : (GLOBAL_CONFIG.root + data.path)
           return `
-            <a href="${link}" class="algolia-hit-item-link">
+            <a href="${link.replace('https://python3student.github.io', '')}" class="algolia-hit-item-link">
             ${data._highlightResult.title.value || 'no-title'}
             </a>`
         },
