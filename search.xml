@@ -5,8 +5,8 @@
     
     <entry>
       <title>gitee博客</title>
-      <link href="/posts/2022/1202/a927fc93.html"/>
-      <url>/posts/2022/1202/a927fc93.html</url>
+      <link href="/posts/2022/1202/a927fc93"/>
+      <url>/posts/2022/1202/a927fc93</url>
       
         <content type="html"><![CDATA[<h1 id="新的博客"><a href="#新的博客" class="headerlink" title="新的博客"></a>新的博客</h1><p>因为国内GitHub访问较慢，所以在gitee上又弄了一个博客<br>这是gitee博客地址：<a href="https://ttie.gitee.io/">https://ttie.gitee.io/</a><br><a class="btn-beautify blue center larger" href="https://ttie.gitee.io/"   title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a></p><div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='/img/bg/blog.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">gitee</div>  <p>博客</p>  <a href='https://ttie.gitee.io/'></a>  </figcaption>  </figure>  </div><h2 id="博客镜像站"><a href="#博客镜像站" class="headerlink" title="博客镜像站"></a>博客镜像站</h2><p>在cloudflare上弄了一个镜像站，国内访问更快些<br>地址：<a href="https://ttie.pages.dev/">https://ttie.pages.dev/</a></p><div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='/img/bg/blog.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">镜像站</div>  <p>cloudflare镜像</p>  <a href='https://ttie.pages.dev/'></a>  </figcaption>  </figure>  </div>]]></content>
       
@@ -30,8 +30,8 @@
     
     <entry>
       <title>推荐视频</title>
-      <link href="/posts/2022/0409/a8555407.html"/>
-      <url>/posts/2022/0409/a8555407.html</url>
+      <link href="/posts/2022/0409/a8555407"/>
+      <url>/posts/2022/0409/a8555407</url>
       
         <content type="html"><![CDATA[<h1 id="视频分享"><a href="#视频分享" class="headerlink" title="视频分享"></a>视频分享</h1><div class="tabs" id="泰勒级数"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#泰勒级数-1">泰勒级数</button></li><li class="tab"><button type="button" data-href="#泰勒级数-2">极限问题</button></li><li class="tab"><button type="button" data-href="#泰勒级数-3">物理动量</button></li><li class="tab"><button type="button" data-href="#泰勒级数-4">π</button></li><li class="tab"><button type="button" data-href="#泰勒级数-5">隐函数求导</button></li><li class="tab"><button type="button" data-href="#泰勒级数-6">电</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="泰勒级数-1"><p>和微积分有关<br><a class="btn-beautify blue center larger" href="https://www.bilibili.com/video/BV1Gx411Y7cz?spm_id_from=333.999.0.0"   title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="泰勒级数-2"><p>求和问题<br><a class="btn-beautify blue center larger" href="https://www.bilibili.com/video/BV1BW411x7DY?spm_id_from=333.999.0.0"   title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a><br>求积问题<br><a class="btn-beautify blue center larger" href="https://www.bilibili.com/video/BV17W41137KL?spm_id_from=333.999.0.0"   title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="泰勒级数-3"><p>第一部分<br><a class="btn-beautify blue center larger" href="https://www.bilibili.com/video/BV1nt411p7F9?spm_id_from=333.999.0.0"   title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a><br>第二部分<br><a class="btn-beautify blue center larger" href="https://www.bilibili.com/video/BV1bt41147H5?spm_id_from=333.999.0.0"   title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a><br>第三部分<br><a class="btn-beautify blue center larger" href="https://www.bilibili.com/video/BV1Mb41187jL?spm_id_from=333.999.0.0"   title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="泰勒级数-4"><p>一个关于π的神奇算法，看完也会对二项式定理和杨辉三角有一个更加深刻的理解<br><a class="btn-beautify blue center larger" href="https://www.bilibili.com/video/BV1x64y1D7Rn?spm_id_from=333.999.0.0"   title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="泰勒级数-5"><p><a class="btn-beautify blue center larger" href="https://www.bilibili.com/video/BV1kx411v7r8?spm_id_from=333.999.0.0"   title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="泰勒级数-6"><p><a class="btn-beautify blue center larger" href="https://www.bilibili.com/video/BV1cQ4y1e7Lu?spm_id_from=333.999.0.0"   title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div><p>视频不断补充中</p>]]></content>
       
@@ -45,9 +45,9 @@
       
         <tags>
             
-            <tag> 视频 </tag>
-            
             <tag> 学习 </tag>
+            
+            <tag> 视频 </tag>
             
         </tags>
       
@@ -57,8 +57,8 @@
     
     <entry>
       <title>三余弦定理</title>
-      <link href="/posts/2022/0404/d8f0c047.html"/>
-      <url>/posts/2022/0404/d8f0c047.html</url>
+      <link href="/posts/2022/0404/d8f0c047"/>
+      <url>/posts/2022/0404/d8f0c047</url>
       
         <content type="html"><![CDATA[<h1 id="引入"><a href="#引入" class="headerlink" title="引入"></a>引入</h1><p>在做有些数学题时，总是会遇到这种类似的题：</p><p>如右图，点O是正方形纸片ABCD的中心，点E，F分别为AD，BC的中点，现沿对角线AC把纸片折成直二面角，则纸片折后∠EOF的大小为？<br><img src="img/math/01.jpg" alt="立体几何"></p><p>不难想象，当OE和OF变化时，∠EOF也在变化。可以说，在二面角不变的情况下，∠EOF是由OE和OF与二面角的交线的夹角确定的</p><p>因为OE和OF与二面角的交线的夹角是一定的，所以∠EOF自然是确定的，所以肯定是能算出来的。</p><p>因此，会让人想到，有没有一个公式可以直接套用，直接算出来∠EOF的角度。</p><h1 id="三余弦定理"><a href="#三余弦定理" class="headerlink" title="三余弦定理"></a>三余弦定理</h1><p>这里引入一个模型，如图</p><p><img src="img/math/02.jpg" alt="模型"></p><p>l1和l2在一个面内，记为平面M，l1和l3在另一个面内，记为平面N。l1，l2，l3交于O，l1⊥l2，l1⊥l3，λ为l2和l3的夹角，所以为二面角。射线OA在M中，射线OB在N中。OA与l1的夹角记为α，OB与l1的夹角记为β。OA与OB的夹角记为θ，求θ。</p><p>结论：<mark class="hl-label blue">cosθ=cosαcosβ+sinαsinβcosλ</mark> </p><p>至于怎么推的，以后再说。（提示：勾股定理+余弦定理就可以推出来）</p><h1 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h1><p>对于上面那道题，α=135º，β=45º，λ=90º，带入公式可得θ=120º</p>]]></content>
       
@@ -72,9 +72,9 @@
       
         <tags>
             
-            <tag> 学习 </tag>
-            
             <tag> 数学 </tag>
+            
+            <tag> 学习 </tag>
             
         </tags>
       
@@ -84,8 +84,8 @@
     
     <entry>
       <title>24魔塔</title>
-      <link href="/posts/2022/0226/9a6fa508.html"/>
-      <url>/posts/2022/0226/9a6fa508.html</url>
+      <link href="/posts/2022/0226/9a6fa508"/>
+      <url>/posts/2022/0226/9a6fa508</url>
       
         <content type="html"><![CDATA[<p> 24层魔塔<br>今天向大家推荐一个非常好玩的游戏——24层魔塔<br>这里是网页版<a href="https://h5mota.com/games/24/">原版</a><br>还有一个<a href="https://xingye.me/game/mota/index.html">改版</a><br>这里我玩的是改版，因为我先接触到的是改版，原版我还没玩</p><h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><p>24层魔塔，算是一个非常经典的游戏了，是国内的第一部摩塔游戏，被称为“三原塔”之一。2003年出版的，非常老了，但是超级经典。</p><p>这个游戏算是一个益智游戏，需要你不停的计算。</p><p>这个24魔塔，是三原塔中最简单的。建议不要先玩其的，因为实在太难。</p><p>我简单的介绍一下我的游戏历程</p><h2 id="游戏历程"><a href="#游戏历程" class="headerlink" title="游戏历程"></a>游戏历程</h2><h3 id="第一次"><a href="#第一次" class="headerlink" title="第一次"></a>第一次</h3><p>第一次玩这个游戏，并不知道有多难，就简单的玩了一下，结果发现，就卡在第八关了(啥都干不了)。<br>所以第一次也就失败了</p><h3 id="第二次"><a href="#第二次" class="headerlink" title="第二次"></a>第二次</h3><p>上一次失败后，我又重新创一个存档重新玩。<br>这次严谨一点，也是一口气打到21层。<br>但是我忘记存档了，到了21层后，不把怪打掉，他是下不了楼的。<br><img src="/img/24/03.png" alt="卡21层了"></p><p>又失算了！</p><h3 id="第三次"><a href="#第三次" class="headerlink" title="第三次"></a>第三次</h3><p>这次吸取上次的教训，中间不断存档，也一路打到了24层。<br>但是我忘了把最后的boss封印了，导致根本打不过。<br><img src="/img/24/04.png" alt="屠龙"><br>于是读回存档，让boss变菜。结果发现还是打不过。<br><img src="/img/24/05.png" alt="血影"><br>我觉得是我的中间过程没有做到精打细算。<br>于是又打算重来一遍</p><h3 id="第四遍"><a href="#第四遍" class="headerlink" title="第四遍"></a>第四遍</h3><p>这次我精打细算，仔仔细细，反复存档读档。<br>觉得应该能通关了。<br>结果只是比第三遍提升了一点点<br><img src="/img/24/06.png" alt="卡关"><br><img src="/img/24/07.png" alt="属性"><br>还是差很多，才能通关。要是差一点吧，我还能理解。但是这差的也太多了。<br>于是我用数学方法，把前面几层的状态计算了一下，计算出最大化的功防，演化了很多遍，发现以我前面几关的状态，根本就不可能通关！<br>不信的话可以计算一遍<br><img src="/img/24/08.png" alt="计算"></p><p>这一次之后，我陷入了严重的怀疑当中。我在怀疑这个游戏到底能不能通关。我真的觉得现在这个过关方法真的已经很好了，我已经耗费了大量精力了，应该没有更加优化的方法了</p><p>于是把这个游戏搁置了两天，抱着试一试的态度又进行了第五次</p><h3 id="第五次"><a href="#第五次" class="headerlink" title="第五次"></a>第五次</h3><p>就在毫无信心的尝试中，我突然想到了更加优化的方法<br>于是猛然惊起。<br>一番尝试后，竟然真的通关了（｀Δ´）！<br><img src="/img/24/09.png" alt="通关"></p>]]></content>
       
@@ -111,8 +111,8 @@
     
     <entry>
       <title>2022寒假期间的作品</title>
-      <link href="/posts/2022/0215/fd6b9fe9.html"/>
-      <url>/posts/2022/0215/fd6b9fe9.html</url>
+      <link href="/posts/2022/0215/fd6b9fe9"/>
+      <url>/posts/2022/0215/fd6b9fe9</url>
       
         <content type="html"><![CDATA[<h1 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h1><p>主要学习了python语言，电脑的基本使用</p><h1 id="成果"><a href="#成果" class="headerlink" title="成果"></a>成果</h1><p>python的主要成果上传到GitHub上了，在<a href="https://github.com/python3student/PC">PC仓库</a>里</p><p>有自己编写的坦克大战，但还没来得及编完，就开学了<br><a href="https://github.com/python3student/PC/tree/master/mytank">源码链接</a>，其中my21.py是最新版<br><img src="/img/tank.png" alt="坦克大战游戏"></p><p>当然，更多的还是在PC仓库里</p>]]></content>
       
@@ -138,8 +138,8 @@
     
     <entry>
       <title>print函数的简单用法</title>
-      <link href="/posts/2022/0214/df8bcc7a.html"/>
-      <url>/posts/2022/0214/df8bcc7a.html</url>
+      <link href="/posts/2022/0214/df8bcc7a"/>
+      <url>/posts/2022/0214/df8bcc7a</url>
       
         <content type="html"><![CDATA[<h1 id="print函数的基本使用"><a href="#print函数的基本使用" class="headerlink" title="print函数的基本使用"></a>print函数的基本使用</h1><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&#x27;xxxx&#x27;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;xxxx&quot;</span>)</span><br></pre></td></tr></table></figure><p>以上代码都可以打印出<br><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">xxxx</span><br><span class="line">xxxx</span><br></pre></td></tr></table></figure><br>即为引号内的内容被显示在屏幕上</p><p>如图<br><img src="/img/print.png" alt="print"></p><h2 id="必须指出的是，这里的引号和括号必须是英文状态下输入的，否则会出错"><a href="#必须指出的是，这里的引号和括号必须是英文状态下输入的，否则会出错" class="headerlink" title="必须指出的是，这里的引号和括号必须是英文状态下输入的，否则会出错"></a>必须指出的是，这里的引号和括号必须是英文状态下输入的，否则会出错</h2><p><img src="/img/print1.png" alt="print"></p>]]></content>
       
@@ -163,8 +163,8 @@
     
     <entry>
       <title>安装python解释器</title>
-      <link href="/posts/2022/0213/24650bf0.html"/>
-      <url>/posts/2022/0213/24650bf0.html</url>
+      <link href="/posts/2022/0213/24650bf0"/>
+      <url>/posts/2022/0213/24650bf0</url>
       
         <content type="html"><![CDATA[<h2 id="python的版本选择"><a href="#python的版本选择" class="headerlink" title="python的版本选择"></a>python的版本选择</h2><p>目前Python有两个版本，一个是2.x，一个是3.x。这两个版本是不兼容的。由于3.x版越来越普及，而且在2020年1月1日，官方宣布，停止Python2的更新。所以我们以Python 3版本为基础。</p><h3 id="windows系统安装python"><a href="#windows系统安装python" class="headerlink" title="windows系统安装python"></a>windows系统安装python</h3><p><a href="https://www.python.org/downloads">python下载官网</a></p><ul><li>Windows x86-64 表示64位的Python安装程序。</li><li>Windows x86 表示32位的Python安装程序。</li><li>executable installer 表示可执行程序，一般我们都是选择这个。</li><li>embeddable zip file 表示免安装版本，可以直接集成到其他程序中。</li><li>web-based installer 表示下载的是一个安装器，然后通过这个安装器再从网络上下载Python安装包。</li></ul><p>但是python官网下载会特别慢，因为是从国外源下载的，从国内的镜像站点下载会特别快</p><p>这里推荐<a href="https://mirrors.huaweicloud.com/python/">华为云</a>,上面有各种版本的python</p><p>打开下载的exe文件，就开始安装Python了。</p>]]></content>
       
