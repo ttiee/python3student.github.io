@@ -58,7 +58,7 @@ background:rgba(0, 0, 0, 0.9);
 }*/
 
 [data-theme = dark] #page-header.full_page::before{
-  background: url(/img/bg/darkmodepicture70.jpg);
+  background: url(/img/bg/darkmodepicture60.jpg);
 }
 /*
 [data-theme = dark] #universe{
