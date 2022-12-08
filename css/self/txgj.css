@@ -8,7 +8,15 @@
 /* .card-info-avatar:hover {
   background: url(https://cdn.jsdelivr.net/gh/rigodlee/BLOGCDN/img/20200530181856.gif);
 } */
-
+#footer-wrap{
+  color: rgba(0, 0, 0, 0.686);
+}
+[data-theme = dark] #footer-wrap{
+  color: rgba(255, 255, 255, 0.645);
+}
+#footer::before{
+  opacity: 0;
+}
 /*文章页背景*//*分类页面*//*时间轴页面*/
 .layout #post, .layout #page , .layout #archive , .layout #category{
   /* 以下代表透明度为0.5 可以自行修改*/
@@ -29,10 +37,10 @@ background:rgba(255, 255, 255, 0.9);
   background: transparent!important;
 }*/
 
-/*以下是封面图透明*/
+/*以下是封面图透明*//*
 #page-header.full_page::before {
   background-color: transparent!important;
-}
+}*/
 
 /*文章页背景*//*分类页面*//*时间轴页面*/
 [data-theme = dark] .layout>#post,[data-theme = dark] .layout #page ,[data-theme = dark] .layout #archive ,[data-theme = dark] .layout>#category{
