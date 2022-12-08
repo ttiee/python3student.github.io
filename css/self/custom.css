@@ -93,9 +93,9 @@ h1::before, h2::before, h3::before, h4::before, h5::before, h6::before {
 /* 字体样式 */
 @font-face {
     /* 为载入的字体取名字(随意) */
-    font-family: 'ZZw';	
+    font-family: 'ZZW';	
     /* 字体文件地址(相对或者绝对路径都可以) */
-    src: url(/fonts/ZhuZiAWan2.woff2);
+    src: url(https://tt3.pages.dev/fonts/ZhuZiAWan2.woff2);
     /* 定义加粗样式(加粗多少) */
     font-weight: normal;
     /* 定义字体样式(斜体/非斜体) */
@@ -107,7 +107,7 @@ h1::before, h2::before, h3::before, h4::before, h5::before, h6::before {
     /* 为载入的字体取名字(随意) */
     font-family: 'XWWK';	
     /* 字体文件地址(相对或者绝对路径都可以) */
-    src: url(/fonts/霞鹜文楷.woff2);
+    src: url(https://tt3.pages.dev/fonts/霞鹜文楷.woff2);
     /* 定义加粗样式(加粗多少) */
     font-weight: normal;
     /* 定义字体样式(斜体/非斜体) */
@@ -119,7 +119,7 @@ h1::before, h2::before, h3::before, h4::before, h5::before, h6::before {
     /* 为载入的字体取名字(随意) */
     font-family: 'HYT';	
     /* 字体文件地址(相对或者绝对路径都可以) */
-    src: url(/fonts/HYTangMeiRen55W.woff2);
+    src: url(https://tt3.pages.dev/fonts/HYTangMeiRen55W.woff2);
     /* 定义加粗样式(加粗多少) */
     font-weight: normal;
     /* 定义字体样式(斜体/非斜体) */
