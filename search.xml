@@ -8,7 +8,7 @@
       <link href="/posts/2022/1202/a927fc93/"/>
       <url>/posts/2022/1202/a927fc93/</url>
       
-        <content type="html"><![CDATA[<h1 id="新的博客"><a href="#新的博客" class="headerlink" title="新的博客"></a>新的博客</h1><p>因为国内GitHub访问较慢，所以在gitee上又弄了一个博客<br>这是gitee博客地址：<a href="https://ttie.gitee.io/">https://ttie.gitee.io/</a><br><a class="btn-beautify blue center larger" href="https://ttie.gitee.io/"   title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a></p><div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://tt3.pages.dev/img/bg/blog.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">gitee</div>  <p>博客</p>  <a href='https://ttie.gitee.io/'></a>  </figcaption>  </figure>  </div><h2 id="博客镜像站"><a href="#博客镜像站" class="headerlink" title="博客镜像站"></a>博客镜像站</h2><p>在cloudflare上弄了一个镜像站，国内访问更快些<br>地址：<a href="https://ttie.pages.dev/">https://ttie.pages.dev/</a></p><div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://tt3.pages.dev/img/bg/blog.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">镜像站</div>  <p>cloudflare镜像</p>  <a href='https://ttie.pages.dev/'></a>  </figcaption>  </figure>  </div>]]></content>
+        <content type="html"><![CDATA[<h1 id="新的博客"><a href="#新的博客" class="headerlink" title="新的博客"></a>新的博客</h1><p>因为国内GitHub访问较慢，所以在gitee上又弄了一个博客<br>这是gitee博客地址：<a href="https://ttie.gitee.io/">https://ttie.gitee.io/</a></p><a class="btn-beautify blue center larger" href="https://ttie.gitee.io/"   title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a><div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://tt3.pages.dev/img/bg/blog.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">gitee</div>  <p>博客</p>  <a href='https://ttie.gitee.io/'></a>  </figcaption>  </figure>  </div><h2 id="博客镜像站"><a href="#博客镜像站" class="headerlink" title="博客镜像站"></a>博客镜像站</h2><p>在cloudflare上弄了一个镜像站，国内访问更快些<br>地址：<a href="https://ttie.pages.dev/">https://ttie.pages.dev/</a></p><div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://tt3.pages.dev/img/bg/blog.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">镜像站</div>  <p>cloudflare镜像</p>  <a href='https://ttie.pages.dev/'></a>  </figcaption>  </figure>  </div>]]></content>
       
       
       <categories>
@@ -45,9 +45,9 @@
       
         <tags>
             
-            <tag> 视频 </tag>
-            
             <tag> 学习 </tag>
+            
+            <tag> 视频 </tag>
             
         </tags>
       
@@ -60,7 +60,7 @@
       <link href="/posts/2022/0404/d8f0c047/"/>
       <url>/posts/2022/0404/d8f0c047/</url>
       
-        <content type="html"><![CDATA[<h1 id="引入"><a href="#引入" class="headerlink" title="引入"></a>引入</h1><p>在做有些数学题时，总是会遇到这种类似的题：</p><p>如右图，点O是正方形纸片ABCD的中心，点E，F分别为AD，BC的中点，现沿对角线AC把纸片折成直二面角，则纸片折后∠EOF的大小为？<br><img src="https://tt3.pages.dev/img/math/01.jpg" alt="立体几何"></p><p>不难想象，当OE和OF变化时，∠EOF也在变化。可以说，在二面角不变的情况下，∠EOF是由OE和OF与二面角的交线的夹角确定的</p><p>因为OE和OF与二面角的交线的夹角是一定的，所以∠EOF自然是确定的，所以肯定是能算出来的。</p><p>因此，会让人想到，有没有一个公式可以直接套用，直接算出来∠EOF的角度。</p><h1 id="三余弦定理"><a href="#三余弦定理" class="headerlink" title="三余弦定理"></a>三余弦定理</h1><p>这里引入一个模型，如图</p><div class="img-wrap"><div class="img-bg"><img class="img" src="https://tt3.pages.dev/img/math/02.jpg" alt="模型" style="width:100px;"/></div><span class="image-caption">模型</span></div><p>l1和l2在一个面内，记为平面M，l1和l3在另一个面内，记为平面N。l1，l2，l3交于O，l1⊥l2，l1⊥l3，λ为l2和l3的夹角，所以为二面角。射线OA在M中，射线OB在N中。OA与l1的夹角记为α，OB与l1的夹角记为β。OA与OB的夹角记为θ，求θ。</p><p>结论：<mark class="hl-label blue">cosθ=cosαcosβ+sinαsinβcosλ</mark> </p><p>至于怎么推的，以后再说。（提示：勾股定理+余弦定理就可以推出来）</p><h1 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h1><p>对于上面那道题，α=135º，β=45º，λ=90º，带入公式可得θ=120º</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="引入"><a href="#引入" class="headerlink" title="引入"></a>引入</h1><p>在做有些数学题时，总是会遇到这种类似的题：</p><p>如右图，点O是正方形纸片ABCD的中心，点E，F分别为AD，BC的中点，现沿对角线AC把纸片折成直二面角，则纸片折后∠EOF的大小为？<br><img src="https://tt3.pages.dev/img/math/01.jpg" alt="立体几何"></p><p>不难想象，当OE和OF变化时，∠EOF也在变化。可以说，在二面角不变的情况下，∠EOF是由OE和OF与二面角的交线的夹角确定的</p><p>因为OE和OF与二面角的交线的夹角是一定的，所以∠EOF自然是确定的，所以肯定是能算出来的。</p><p>因此，会让人想到，有没有一个公式可以直接套用，直接算出来∠EOF的角度。</p><h1 id="三余弦定理"><a href="#三余弦定理" class="headerlink" title="三余弦定理"></a>三余弦定理</h1><p>这里引入一个模型，如图</p><div class="img-wrap"><div class="img-bg"><img class="img" src="https://tt3.pages.dev/img/math/02.jpg" alt="模型" style="width:100px;"/></div><span class="image-caption">模型</span></div><p>l1和l2在一个面内，记为平面M，l1和l3在另一个面内，记为平面N。l1，l2，l3交于O，l1⊥l2，l1⊥l3，λ为l2和l3的夹角，所以为二面角。射线OA在M中，射线OB在N中。OA与l1的夹角记为α，OB与l1的夹角记为β。OA与OB的夹角记为θ，求θ。</p><p>结论：<mark class="hl-label blue">cosθ=cosαcosβ+sinαsinβcosλ</mark> </p><p>至于怎么推的，以后再说。（提示：勾股定理+余弦定理就可以推出来）</p><h1 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h1><p>对于上面那道题，α&#x3D;135º，β&#x3D;45º，λ&#x3D;90º，带入公式可得θ&#x3D;120º</p>]]></content>
       
       
       <categories>
@@ -72,9 +72,9 @@
       
         <tags>
             
-            <tag> 学习 </tag>
-            
             <tag> 数学 </tag>
+            
+            <tag> 学习 </tag>
             
         </tags>
       
@@ -141,7 +141,7 @@
       <link href="/posts/2022/0214/df8bcc7a/"/>
       <url>/posts/2022/0214/df8bcc7a/</url>
       
-        <content type="html"><![CDATA[<h1 id="print函数的基本使用"><a href="#print函数的基本使用" class="headerlink" title="print函数的基本使用"></a>print函数的基本使用</h1><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&#x27;xxxx&#x27;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;xxxx&quot;</span>)</span><br></pre></td></tr></table></figure><p>以上代码都可以打印出<br><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">xxxx</span><br><span class="line">xxxx</span><br></pre></td></tr></table></figure><br>即为引号内的内容被显示在屏幕上</p><p>如图<br><img src="/img/print.png" alt="print"></p><h2 id="必须指出的是，这里的引号和括号必须是英文状态下输入的，否则会出错"><a href="#必须指出的是，这里的引号和括号必须是英文状态下输入的，否则会出错" class="headerlink" title="必须指出的是，这里的引号和括号必须是英文状态下输入的，否则会出错"></a>必须指出的是，这里的引号和括号必须是英文状态下输入的，否则会出错</h2><p><img src="/img/print1.png" alt="print"></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="print函数的基本使用"><a href="#print函数的基本使用" class="headerlink" title="print函数的基本使用"></a>print函数的基本使用</h1><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&#x27;xxxx&#x27;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;xxxx&quot;</span>)</span><br></pre></td></tr></table></figure><p>以上代码都可以打印出</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">xxxx</span><br><span class="line">xxxx</span><br></pre></td></tr></table></figure><p>即为引号内的内容被显示在屏幕上</p><p>如图<br><img src="/img/print.png" alt="print"></p><h2 id="必须指出的是，这里的引号和括号必须是英文状态下输入的，否则会出错"><a href="#必须指出的是，这里的引号和括号必须是英文状态下输入的，否则会出错" class="headerlink" title="必须指出的是，这里的引号和括号必须是英文状态下输入的，否则会出错"></a>必须指出的是，这里的引号和括号必须是英文状态下输入的，否则会出错</h2><p><img src="/img/print1.png" alt="print"></p>]]></content>
       
       
       <categories>
