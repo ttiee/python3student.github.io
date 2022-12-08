@@ -45,16 +45,16 @@ background:rgba(255, 255, 255, 0.9);
 /*文章页背景*//*分类页面*//*时间轴页面*/
 [data-theme = dark] .layout>#post,[data-theme = dark] .layout #page ,[data-theme = dark] .layout #archive ,[data-theme = dark] .layout>#category{
   /* 以下代表透明度为0.5 可以自行修改*/
-background:rgba(0, 0, 0, 0.9);
+background:rgba(0, 0, 0, 0.8);
   }   
 /*侧边栏页面*/
 [data-theme = dark] #aside-content .sticky_layout .card-widget , [data-theme = dark] #aside-content .card-widget{
-  background:rgba(0, 0, 0, 0.9);
+  background:rgba(0, 0, 0, 0.8);
 }
 /* 所有页面背景 */
 [data-theme = dark] #recent-posts>.recent-post-item,[data-theme = dark]  .read-mode .layout_post>#post{
   /* 以下代表透明度为0.5 */
-  background:rgba(0, 0, 0, 0.9);
+  background:rgba(0, 0, 0, 0.8);
 }
 /*
 [data-theme = dark] #span.vsys{
