@@ -1,36 +1,57 @@
-@font-face {
-  font-family: "iconfont"; /* Project id 3805964 */
-  src: url('//at.alicdn.com/t/c/font_3805964_8pkj77shpxu.woff2?t=1670035833957') format('woff2'),
-       url('//at.alicdn.com/t/c/font_3805964_8pkj77shpxu.woff?t=1670035833957') format('woff'),
-       url('//at.alicdn.com/t/c/font_3805964_8pkj77shpxu.ttf?t=1670035833957') format('truetype');
-}
-
+/* icon图标 */
 .iconfont {
-  font-family: "iconfont" !important;
-  font-size: 20px;
-  font-style: normal;
+  font-size: 28px;
   position: relative !important;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  top: 5px;
+}
+.icon-GitHub {
+  font-size: 26px;
+  top: 2px;
+}
+.icon-gitee {
+  font-size: 24px;
+  top: 2px;
+}
+.icon-QQ1 {
+  font-size: 32px;
+}
+.icon-youjian {
+  font-size: 38px;
+  top: 7px;
+  right: 10px;
+}
+.icon-tubiaozhizuomoban- {
+  font-size: 32px;
+}
+.icon-ruzhishijian {
+  font-size: 24px;
+}
+.icon-biaoqian {
+  font-size: 24px;
+}
+.icon-wenjianjia {
+  font-size: 24px;
+}
+.icon-suiji {
+  font-size: 24px;
+}
+.icon-yule {
+  font-size: 24px;
+}
+.icon-shiguan {
+  font-size: 24px;
+}
+.icon-List {
+  font-size: 18px;
+  top: 1px;
 }
 
+/*
 .icon-book-full {
   font-size: 16px;
-}
-
-.icon-book-full:before {
-  content: "\e895";
-}
-
-.icon-QQ:before {
-  content: "\e882";
-}
-
-.icon-gitee-fill-round:before {
-  content: "\e686";
-}
-
+}*/
+/*
 .icon-gitee:before {
   content: "\e60c";
-}
+}*/
 
